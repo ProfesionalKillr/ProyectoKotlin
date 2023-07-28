@@ -89,7 +89,7 @@ fun main(){
         else if (n1==5){
             println("Digite ")
             var per= readLine()!!.toDouble()
-            PerimetroRectangulo(lado)
+            //PerimetroRectangulo(lado)
         }
         else {
             println("Error")
